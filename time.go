@@ -12,7 +12,7 @@ func Time() TimeFunctions {
 	return TimeFunctions{}
 }
 
-func Elapsed(log *logger.Logger, what string, logging bool) func() {
+func (t TimeFunctions) Elapsed(log *logger.Logger, what string, logging bool) func() {
 	start := time.Now()
 	return func() {
 		if logging {
