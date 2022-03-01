@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883
-	github.com/betas-in/logger v0.1.0
+	github.com/betas-in/logger v0.1.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/google/uuid v1.3.0
 )

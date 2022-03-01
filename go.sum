@@ -1,7 +1,7 @@
 github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883 h1:bvNMNQO63//z+xNgfBlViaCIJKLlCJ6/fmUseuG0wVQ=
 github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883/go.mod h1:rCTlJbsFo29Kk6CurOXKm700vrz8f0KW0JNfpkRJY/8=
-github.com/betas-in/logger v0.1.0 h1:Ez4m2Tt8bPLmRP1WayFtTbtW2fsFL1qbeCQvSG14ono=
-github.com/betas-in/logger v0.1.0/go.mod h1:YgnRWy7TA32jkmNSfs2tEfHhj6jp2UiS8H90SfIGt7Y=
+github.com/betas-in/logger v0.1.1 h1:+4ragEjz5x6vKEXybFphxODwypdc0OiaVAnWZtk7slY=
+github.com/betas-in/logger v0.1.1/go.mod h1:YgnRWy7TA32jkmNSfs2tEfHhj6jp2UiS8H90SfIGt7Y=
 github.com/coreos/go-systemd/v22 v22.3.2/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
